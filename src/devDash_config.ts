@@ -1,0 +1,3 @@
+export const gitK = "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";
+
+// REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN
