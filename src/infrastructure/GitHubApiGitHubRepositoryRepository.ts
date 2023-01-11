@@ -13,6 +13,7 @@ export class GitHubApiGitHubRepositoryRepository {
 	];
 
 	constructor(private readonly personalAccessToken: string) {}
+
 	async search(repositoryUrls: string[]): Promise<GitHubApiResponses[]> {
 		const responsePromises = repositoryUrls
 			.map((url) => this.urlToId(url))
