@@ -1,21 +1,15 @@
 {
-	"name": "@codelytv/devdash",
+	"name": "devdash",
 	"version": "0.1.0",
-	"private": true,
 	"engine": {
 		"node": "^16.0.0",
 		"npm": "^8.0.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/CodelyTV/devdash"
+		"url": "git+https://github.com/JSSatorres/dashboard-React"
 	},
-	"author": "codelytv",
-	"license": "GPL-3.0",
-	"bugs": {
-		"url": "https://github.com/CodelyTV/devdash/issues"
-	},
-	"homepage": ".",
+	"author": "JSS",
 	"dependencies": {
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
@@ -24,7 +18,8 @@
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
-		"test": "jest --watch --config=jest.config.js",
+		"test:watch": "jest --watch --config=jest.config.js",
+		"test": "jest --config=jest.config.js",
 		"eject": "react-scripts eject",
 		"cy:open": "cypress open",
 		"cy:run": "cypress run",
@@ -98,6 +93,7 @@
 		"cypress": "^10.3.0",
 		"eslint-config-codely": "^1.1.4",
 		"identity-obj-proxy": "^3.0.0",
+		"jest-mock-extended": "^3.0.1",
 		"jest-transform-stub": "^2.0.0",
 		"sass": "^1.55.0",
 		"stylelint": "^14.14.0",
