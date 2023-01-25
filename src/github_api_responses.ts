@@ -6,7 +6,7 @@ const dotlyResponses = {
 		full_name: "CodelyTV/dotly",
 		private: true,
 		owner: {
-			login: "CodelyTV",
+			login: "JSSatorres",
 			id: 14278228,
 			node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 			avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -129,7 +129,7 @@ const dotlyResponses = {
 		},
 		temp_clone_token: "",
 		organization: {
-			login: "CodelyTV",
+			login: "JSSatorres",
 			id: 14278228,
 			node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 			avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -340,7 +340,7 @@ const dotlyResponses = {
 				ref: "main",
 				sha: "d445d0fb4845944c9ac551352a24307157a332a0",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -366,7 +366,7 @@ const dotlyResponses = {
 					full_name: "CodelyTV/dotly",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -703,7 +703,7 @@ const dotlyResponses = {
 				ref: "main",
 				sha: "1065c0eb24e6c9e0824eef64be94c08b22fd8dab",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -729,7 +729,7 @@ const dotlyResponses = {
 					full_name: "CodelyTV/dotly",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -1066,7 +1066,7 @@ const dotlyResponses = {
 				ref: "main",
 				sha: "1065c0eb24e6c9e0824eef64be94c08b22fd8dab",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -1092,7 +1092,7 @@ const dotlyResponses = {
 					full_name: "CodelyTV/dotly",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -1429,7 +1429,7 @@ const dotlyResponses = {
 				ref: "main",
 				sha: "1065c0eb24e6c9e0824eef64be94c08b22fd8dab",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -1455,7 +1455,7 @@ const dotlyResponses = {
 					full_name: "CodelyTV/dotly",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -1792,7 +1792,7 @@ const dotlyResponses = {
 				ref: "main",
 				sha: "85eec8ac7fd8f2892e9890f3ae7689fbf82795dd",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -1818,7 +1818,7 @@ const dotlyResponses = {
 					full_name: "CodelyTV/dotly",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -2062,7 +2062,7 @@ const dotlyResponses = {
 					full_name: "CodelyTV/dotly",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -2131,7 +2131,7 @@ const dotlyResponses = {
 					full_name: "CodelyTV/dotly",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -2206,7 +2206,7 @@ const eslintPluginHexagonalArchitecturaResponses = {
 		full_name: "CodelyTV/eslint-plugin-hexagonal-architecture",
 		private: false,
 		owner: {
-			login: "CodelyTV",
+			login: "JSSatorres",
 			id: 14278228,
 			node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 			avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -2349,7 +2349,7 @@ const eslintPluginHexagonalArchitecturaResponses = {
 		},
 		temp_clone_token: "",
 		organization: {
-			login: "CodelyTV",
+			login: "JSSatorres",
 			id: 14278228,
 			node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 			avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -2475,7 +2475,7 @@ const eslintPluginHexagonalArchitecturaResponses = {
 					full_name: "CodelyTV/eslint-plugin-hexagonal-architecture",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -2578,7 +2578,7 @@ const eslintPluginHexagonalArchitecturaResponses = {
 					full_name: "CodelyTV/eslint-plugin-hexagonal-architecture",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -2687,7 +2687,7 @@ const refactoringCodeSmellsResponses = {
 		full_name: "CodelyTV/refactoring-code-smells",
 		private: false,
 		owner: {
-			login: "CodelyTV",
+			login: "JSSatorres",
 			id: 14278228,
 			node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 			avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -2809,7 +2809,7 @@ const refactoringCodeSmellsResponses = {
 		},
 		temp_clone_token: "",
 		organization: {
-			login: "CodelyTV",
+			login: "JSSatorres",
 			id: 14278228,
 			node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 			avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -3046,7 +3046,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "003319eb95a6c722d4fcbdd8bd1ee97fe1fdbfd6",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -3072,7 +3072,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -3439,7 +3439,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "003319eb95a6c722d4fcbdd8bd1ee97fe1fdbfd6",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -3465,7 +3465,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -3840,7 +3840,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "003319eb95a6c722d4fcbdd8bd1ee97fe1fdbfd6",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -3866,7 +3866,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -4241,7 +4241,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "003319eb95a6c722d4fcbdd8bd1ee97fe1fdbfd6",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -4267,7 +4267,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -4642,7 +4642,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "003319eb95a6c722d4fcbdd8bd1ee97fe1fdbfd6",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -4668,7 +4668,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -4889,7 +4889,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "csharp-divergent_change",
 				sha: "25f413ad92adffa6617377b996294936ad20a370",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -4915,7 +4915,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5052,7 +5052,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "15342d07c238c188dd158cb737380872cc760682",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5078,7 +5078,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5339,7 +5339,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "social-login",
 				sha: "c601d89f2eaede58594fd5098ae54fe41c779a05",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5365,7 +5365,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5502,7 +5502,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "15342d07c238c188dd158cb737380872cc760682",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5528,7 +5528,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5749,7 +5749,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "split-phase",
 				sha: "a1ef54da6fcd7fba4b71bec59fa8801d834c7616",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5775,7 +5775,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5912,7 +5912,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "15342d07c238c188dd158cb737380872cc760682",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -5938,7 +5938,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -6209,7 +6209,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "step-shotgun-surgery-example-base",
 				sha: "a235f202767cd68ec320edb8b24550bf9e10c225",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -6235,7 +6235,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -6372,7 +6372,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "15342d07c238c188dd158cb737380872cc760682",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -6398,7 +6398,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -6619,7 +6619,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "symlink-examples",
 				sha: "291f68b6cd35f9b040221d143e4184b0f6f39d08",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -6645,7 +6645,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -6782,7 +6782,7 @@ const refactoringCodeSmellsResponses = {
 				ref: "main",
 				sha: "fb0a489aa475c3091366db90c9d2035ef8eaaba1",
 				user: {
-					login: "CodelyTV",
+					login: "JSSatorres",
 					id: 14278228,
 					node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 					avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
@@ -6808,7 +6808,7 @@ const refactoringCodeSmellsResponses = {
 					full_name: "CodelyTV/refactoring-code-smells",
 					private: false,
 					owner: {
-						login: "CodelyTV",
+						login: "JSSatorres",
 						id: 14278228,
 						node_id: "MDEyOk9yZ2FuaXphdGlvbjE0Mjc4MjI4",
 						avatar_url: "https://avatars.githubusercontent.com/u/14278228?v=4",
