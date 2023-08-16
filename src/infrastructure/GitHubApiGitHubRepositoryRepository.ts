@@ -5,8 +5,8 @@ import { CiStatus, PullRequest, RepositoryData } from "./GitHubApiResponse";
 export class GitHubApiGitHubRepositoryRepository implements GitHubRepositoryRepository {
 	private readonly endpoints = [
 		"https://api.github.com/repos/$organization/$name",
-		// "https://api.github.com/repos/$organization/$name/pulls",
-		// "https://api.github.com/repos/$organization/$name/actions/runs?page=1&per_page=1",
+		"https://api.github.com/repos/$organization/$name/pulls",
+		"https://api.github.com/repos/$organization/$name/actions/runs?page=1&per_page=1",
 	];
 
 	constructor(private readonly personalAccessToken: string) {}
@@ -41,7 +41,8 @@ export class GitHubApiGitHubRepositoryRepository implements GitHubRepositoryRepo
 				return {
 					id: {
 						name: repositoryData.name,
-						organization: repositoryData.organization.login,
+						organization: "JSSatoores",
+						// organization: repositoryData.organization.login,
 					},
 					url: repositoryData.url,
 					description: repositoryData.description,
