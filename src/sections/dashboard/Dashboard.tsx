@@ -1,19 +1,22 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
-import { config } from "../../devdash_config";
-import { GitHubRepository } from "../../domain/GitHubRepository";
-import { GitHubApiGitHubRepositoryRepository } from "../../infrastructure/GitHubApiGitHubRepositoryRepository";
-import { ReactComponent as Brand } from "./brand.svg";
-import { ReactComponent as Check } from "./check.svg";
-import styles from "./Dashboard.module.scss";
-import { ReactComponent as Error } from "./error.svg";
-import { ReactComponent as PullRequests } from "./git-pull-request.svg";
-import { ReactComponent as IssueOpened } from "./issue-opened.svg";
-import { ReactComponent as Lock } from "./lock.svg";
-import { ReactComponent as Forks } from "./repo-forked.svg";
-import { ReactComponent as Start } from "./star.svg";
-import { ReactComponent as Unlock } from "./unlock.svg";
-import { ReactComponent as Watchers } from "./watchers.svg";
+import { InMemoryGitHubRepositoryRepository } from "../../infrastructure/InMemoryGitHubRepositoryRepository";
+// import { useEffect, useState } from "react";
+
+// import { ReactComponent as Check } from "../../assets/svg//check.svg";
+// // import { ReactComponent as Brand } from "../../assets/svg/brand.svg";
+// import { ReactComponent as Error } from "../../assets/svg/error.svg";
+// import { ReactComponent as PullRequests } from "../../assets/svg/git-pull-request.svg";
+// import { ReactComponent as IssueOpened } from "../../assets/svg/issue-opened.svg";
+// import { ReactComponent as Lock } from "../../assets/svg/lock.svg";
+// import { ReactComponent as Forks } from "../../assets/svg/repo-forked.svg";
+// import { ReactComponent as Start } from "../../assets/svg/star.svg";
+// import { ReactComponent as Unlock } from "../../assets/svg/unlock.svg";
+// import { ReactComponent as Watchers } from "../../assets/svg/watchers.svg";
+// import { config } from "../../devdash_config";
+// import { GitHubRepository } from "../../domain/GitHubRepository";
+// import { GitHubApiGitHubRepositoryRepository } from "../../infrastructure/GitHubApiGitHubRepositoryRepository";
+// import styles from "./Dashboard.module.scss";
 
 const isoToReadableDate = (lastUpdateDate: Date): string => {
 	const currentDate = new Date();
@@ -32,26 +35,32 @@ const isoToReadableDate = (lastUpdateDate: Date): string => {
 };
 
 export function Dashboard() {
-	const repository = new GitHubApiGitHubRepositoryRepository(config.github_access_token);
-	const [repositoryData, setRepositoryData] = useState<GitHubRepository[]>([]);
-
+	// const repository = new GitHubApiGitHubRepositoryRepository(config.github_access_token);
+	// const [repositoryData, setRepositoryData] = useState<GitHubRepository[]>([]);
+	const repository = new InMemoryGitHubRepositoryRepository();
+	const repositories = repository.search();
 	useEffect(() => {
-		repository
-			.search(config.widgets.map((widget) => widget.repository_url))
-			.then((repositoryData) => {
-				setRepositoryData(repositoryData);
-			});
+		// repository
+		// 	.search(config.widgets.map((widget) => widget.repository_url))
+		// 	.then((repositoryData) => {
+		// 		setRepositoryData(repositoryData);
+		// 	});
 	}, []);
 
 	return (
 		<>
-			<header className={styles.header}>
+			<ul>
+				{repositories.map((repo) => (
+					<li key={repo.repositoryData.id}>{repo.repositoryData.archive_url}</li>
+				))}
+			</ul>
+			{/* <header className={styles.header}>
 				<section className={styles.header__container}>
 					<Brand />
 					<h1 className={styles.app__brand}>DevDash_</h1>
 				</section>
-			</header>
-			{repositoryData.length === 0 ? (
+			</header> */}
+			{/* {repositoryData.length === 0 ? (
 				<div className={styles.empty}>
 					<span>No hay widgets configurados.</span>
 				</div>
@@ -106,7 +115,7 @@ export function Dashboard() {
 						</article>
 					))}
 				</section>
-			)}
+			)} */}
 		</>
 	);
 }
